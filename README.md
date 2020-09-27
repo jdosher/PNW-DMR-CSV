@@ -3,7 +3,7 @@
 
 ### What is this repository for? ###
 
-* To maintain the PNWDigital CSV (Comma Seperated Value) files that are used with Andrew's [ACB](https://github.com/K7ABD/anytone-config-builder) to create the stock Community Codeplugs
+* To maintain the PNWDigital CSV (Comma Separated Value) files that are used with Andrew's [ACB](https://github.com/K7ABD/anytone-config-builder) to create the stock Community Codeplugs
 
 ### How do I get set up? ###
 
