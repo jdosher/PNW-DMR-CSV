@@ -3,13 +3,17 @@
 
 ### What is this repository for? ###
 
-* To maintain the PNWDigital CSV (Comma Seperated Value) files that are used with Andrew's ACB (https://github.com/K7ABD/anytone-config-builder) to create the stock Community Codeplugs
+* To maintain the PNWDigital CSV (Comma Seperated Value) files that are used with Andrew's [ACB](https://github.com/K7ABD/anytone-config-builder) to create the stock Community Codeplugs
 
 ### How do I get set up? ###
 
 If you just want a copy of the latest CSV files you can easily download them directly from the bitbucket repository page by clicking the '...' icon at the top right of the repo.
 
-There can be a bit of a learning curve with git and Bitbucket, but it's worth it if you want to create and maintain any kind of source files for a project, especially if a team of people are involved. There are many good git/bitbucket tutorials on the web that will get you started.
+There can be a bit of a learning curve with git and Bitbucket, but it's worth it if you want to create and maintain any kind of source files for a project, especially if a team of people are involved. There are many good git/bitbucket [tutorials](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) on the web that will get you started, and there are git GUIs if you're not a command-line jocky. 
+
+[Git for Windows](https://gitforwindows.org/) 
+
+[Git for Mac](https://git-scm.com/download/mac)
 
 Briefly speaking, if you want to contribute corrections or additions to the CSV files the process will look something like this:
 
@@ -30,5 +34,5 @@ Briefly speaking, if you want to contribute corrections or additions to the CSV 
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
+* Repo owner or admins to request to be added to the 'developer' group to submit changes (create pull requests)
 * Other community or team contact
