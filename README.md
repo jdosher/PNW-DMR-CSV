@@ -7,13 +7,10 @@
 
 ### How do I get set up? ###
 
-If you just want a copy of the latest CSV files you can easily download them directly from the bitbucket repository page by clicking the '...' icon at the top right of the repo.
+If you just want a copy of the latest CSV files you can easily download them directly from this repository as a zip file.
 
-There can be a bit of a learning curve with git and Bitbucket, but it's worth it if you want to create and maintain any kind of source files for a project, especially if a team of people are involved. There are many good git/bitbucket [tutorials](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) on the web that will get you started, and there are git GUIs if you're not a command-line jocky. 
+There can be a bit of a learning curve with git, but it's worth it if you want to create and maintain any kind of source files for a project, especially if a team of people are involved. There are many good git tutorials on the web.
 
-[Sourcetree](https://www.sourcetreeapp.com/)
-[Git for Windows](https://gitforwindows.org/) 
-[Git for Mac](https://git-scm.com/download/mac)
 
 Briefly speaking, if you want to contribute corrections or additions to the CSV files the process will look something like this:
 
@@ -21,7 +18,7 @@ Briefly speaking, if you want to contribute corrections or additions to the CSV 
 * Next make the changes
 * Throughly test the changes using ACB, CPS (Anytone's Consumer Programming Software), and your radio(s) to verify your changes are working as expected
 * Commit the changes
-* Create a 'pull request'. This alerts the admin(s) of the repository that there are changes to be reviewed and merged into the master files
+* Create a 'pull request'. This alerts the admin(s) of the repository that there are changes to be reviewed and merged into the master branch
 * Take pride that you contributed to the greater good of the PNW DMR codeplug community!
 
 
